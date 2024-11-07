@@ -124,6 +124,8 @@ class ElementSpecs:
         "developerEmail": ElementSpec(5, [1, 2, 69, 1, 0]),
         "developerWebsite": ElementSpec(5, [1, 2, 69, 0, 5, 2]),
         "developerAddress": ElementSpec(5, [1, 2, 69, 2, 0]),
+        "developerPhone": ElementSpec(5, [1, 2, 69, 3]),
+
         "privacyPolicy": ElementSpec(5, [1, 2, 99, 0, 5, 2]),
         # "developerInternalID": ElementSpec(5, [0, 12, 5, 0, 0]),
         "genre": ElementSpec(5, [1, 2, 79, 0, 0, 0]),
